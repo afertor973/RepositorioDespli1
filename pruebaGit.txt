@@ -1,2 +1,3 @@
 Linea añadida al txt
 Linea añadida desde GitHub
+No nos gustan los conflictos
